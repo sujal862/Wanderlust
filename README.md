@@ -40,7 +40,7 @@ Wanderlust is a web application that allows users to browse, book, and list trav
    ```
 4. Set up your environment variables in a `.env` file. You may need to include:
    ```
-   MAP_TOKEN=your_mapbox_token
+   Cloudinary API Key, MapBox Token . . .
    ```
 5. Start the application:
    ```bash
@@ -48,7 +48,7 @@ Wanderlust is a web application that allows users to browse, book, and list trav
    ```
 
 ## Usage
-- Visit `http://localhost:3000` to access the application.
+- Visit `http://localhost:8080` to access the application.
 - Users can sign up, log in, and start listing or booking properties.
 
 ## Contributing
