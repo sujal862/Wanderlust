@@ -28,7 +28,7 @@ Wanderlust is a web application that allows users to browse, book, and list trav
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sujal862/Wanderlust.git
    ```
 2. Navigate to the project directory:
    ```bash
